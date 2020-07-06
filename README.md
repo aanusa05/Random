@@ -1,3 +1,6 @@
 # Random
 
-Side Projects coming soon...
+Cool Projects...
+
+1. Using linux commands on windows prompt (JAVA)
+
